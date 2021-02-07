@@ -68,10 +68,11 @@ you can manually edit it, or so
 you can just enter new code
 yourself
 
-## CSS Associates Style
-rules with HTML
-elements
+
+## CSS Associates Style rules with HTML elements
+
 ### CSS works by associating rules with HTML elements. These rules govern
+
 * how the content of specified elements should be displayed. A CSS rule
 contains two parts: a selector and a declaration.
 
@@ -82,12 +83,14 @@ elements
 p {
  font-family: Arial;}
 Selector
+
 * Selectors indicate which
 element the rule applies to.
 The same rule can apply to
 more than one element if you
 separate the element names
 with commas.
+
 * Declarations indicate how
 the elements referred to in
 the selector should be styled.
@@ -95,9 +98,8 @@ Declarations are split into two
 parts (a property and a value),
 and are separated by a colon.
 
-## CSS Properties Affect
-How Elements Are
-Displayed
+## CSS Properties Affect How Elements Are Displayed
+
 ### CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
@@ -111,38 +113,46 @@ h1, h2, h3 {
  color: yellow;}
 
  # java script
+
  ## STATEMENTS
+
  * A script is a series of instructions that a computer can follow one-by-one.
 Each individual instruction or step is known as a statement.
 Statements should end with a semicolon. 
 
 ## COMMENTS 
+
 * You should write comments to explain what your code does.
 They help make your code easier to read and understand.
 This can help you and others who read your code. 
 
 ## WHAT IS A VARIABLE? 
+
 * A script will have to temporarily
 store the bits of information it
 needs to do its job. It can store this
 data in variables. 
 
 ## DATA TYPES 
+
 * JavaScript distinguishes between numbers,
 strings, and true or false values known as
 Booleans. 
 
 # loops
+
 1. EVALUATIONS
 You can analyze values in
 your scripts to determine
 whether or note they
 match expected results. 
+
 2. DECISIONS
 Using the results of
 evaluations, you can
 decide which path your
 script should go down.
+
 3. LOOPS
 There are also many
 occasions where you will
@@ -150,6 +160,7 @@ want to perform the same
 set of steps repeatedly. 
 
 ## USING
+
 ### COMPARISON OPERATORS 
 
 * At the most basic level, you can
