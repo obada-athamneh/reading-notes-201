@@ -8,11 +8,11 @@
 
 * HTML has six "levels" of
 headings:
-<h1> is used for main headings
-<h2> is used for subheadings
+h1 is used for main headings
+h2 is used for subheadings
 If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+h3 element is used, and so
 on...
 
 # Paragraphs
@@ -112,59 +112,17 @@ h1, h2, h3 {
  font-family: Arial;
  color: yellow;}
 
- # java script
+ # java script.
 
- ## STATEMENTS
+ ## STATEMENTS.
 
  * A script is a series of instructions that a computer can follow one-by-one.
 Each individual instruction or step is known as a statement.
 Statements should end with a semicolon. 
 
-## COMMENTS 
+## COMMENTS.
 
 * You should write comments to explain what your code does.
 They help make your code easier to read and understand.
 This can help you and others who read your code. 
-
-## WHAT IS A VARIABLE? 
-
-* A script will have to temporarily
-store the bits of information it
-needs to do its job. It can store this
-data in variables. 
-
-## DATA TYPES 
-
-* JavaScript distinguishes between numbers,
-strings, and true or false values known as
-Booleans. 
-
-# loops
-
-1. EVALUATIONS
-You can analyze values in
-your scripts to determine
-whether or note they
-match expected results. 
-
-2. DECISIONS
-Using the results of
-evaluations, you can
-decide which path your
-script should go down.
-
-3. LOOPS
-There are also many
-occasions where you will
-want to perform the same
-set of steps repeatedly. 
-
-## USING
-
-### COMPARISON OPERATORS 
-
-* At the most basic level, you can
-evaluate two variables using a
-comparison operator to return a
-t rue or f al se value.
 
