@@ -16,36 +16,35 @@ under the subheadings then the
 on...
 
 # Paragraphs
-## <p>
+
 
 * To create a paragraph, surround
 the words that make up the
-paragraph with an opening <p>
-tag and closing </p> tag.
+paragraph with an opening p
+tag and closing /p tag.
 
 # Bold & Italic
-* <b>
-By enclosing words in the tags
-<b> and </b> we can make
+
+*By enclosing words in the tags
+b and /b we can make
 characters appear bold.
 
-## <i>
+
 * By enclosing words in the tags
-<i> and </i> we can make
+i and /i we can make
 characters appear italic.
 
 # Superscript & Subscrip
-## <sup>
-* The <sup> element is used
+
+* The sup element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
 mathematical concepts like
 raising a number to a power such
 as 22
-.
-## <sub>
-* The <sub> element is used to
+
+* The sub element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
@@ -73,10 +72,11 @@ yourself
 rules with HTML
 elements
 ### CSS works by associating rules with HTML elements. These rules govern
-how the content of specified elements should be displayed. A CSS rule
+* how the content of specified elements should be displayed. A CSS rule
 contains two parts: a selector and a declaration.
-* .
-CSS Associates Style
+
+ 
+* CSS Associates Style
 rules with HTML
 elements
 p {
@@ -88,7 +88,7 @@ The same rule can apply to
 more than one element if you
 separate the element names
 with commas.
-Declarations indicate how
+* Declarations indicate how
 the elements referred to in
 the selector should be styled.
 Declarations are split into two
@@ -102,8 +102,8 @@ Displayed
 parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
 
-* .
-CSS Properties Affect
+
+* CSS Properties Affect
 How Elements Are
 Displayed
 h1, h2, h3 {
@@ -150,7 +150,7 @@ want to perform the same
 set of steps repeatedly. 
 
 ## USING
-COMPARISON OPERATORS 
+### COMPARISON OPERATORS 
 
 * At the most basic level, you can
 evaluate two variables using a
