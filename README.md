@@ -21,7 +21,7 @@
  9       |[read09](https://obada-athamneh.github.io/reading-notes-201/read09)
  10      |[read10](https://obada-athamneh.github.io/reading-notes-201/read10)
  11      |[read11](https://obada-athamneh.github.io/reading-notes-201/read11)
- 12      |
+ 12      |[read](https://obada-athamneh.github.io/reading-notes-201/read12)
  13      |
  14      | 
  15      |
